@@ -6,7 +6,7 @@ import schedule
 import time
 
 # Inisialisasi bot dengan token
-API_TOKEN = '7588785950:AAFfEZzqnb6fUC1zHLwCXKmk_a0kOdg-Ylg'
+API_TOKEN = 'Telegram Bot Token Anda'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Data pengguna disimpan dalam format dictionary
